@@ -1,0 +1,30 @@
+[
+    {
+        "_id": 1,
+        "title": "Category Title 1",
+        "slug": "first-category",
+        "description": "Category description 1",
+        "color": "#115599"
+    },
+    {
+        "_id": 2,
+        "title": "Category Title 2",
+        "slug": "second-category",
+        "description": "Category description 2",
+        "color": "#ee7799"
+    },
+    {
+        "_id": 3,
+        "title": "Category Title 3",
+        "slug": "third-category",
+        "description": "Category description 3",
+        "color": "#77dd88"
+    },
+    {
+        "_id": 4,
+        "title": "Category Title 4",
+        "slug": "fourth-category",
+        "description": "Category description 4",
+        "color": "#11ccff"
+    }
+]
